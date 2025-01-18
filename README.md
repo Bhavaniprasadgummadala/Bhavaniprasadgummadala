@@ -43,8 +43,8 @@
 - Building real-life applicable projects combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
 
 ## How to Reach Me
-- **Email**:gummadalabhavaniprasad@example.com
-- **LinkedIn**: [Bhavani Prasad Gummadala](www.linkedin.com/in/bhavaniprasadgummadala)
+- **Email**:  gummadalabhavaniprasad@example.com
+- **LinkedIn**:  [Bhavani Prasad Gummadala](www.linkedin.com/in/bhavaniprasadgummadala)
 
 
 ## Fun Facts
