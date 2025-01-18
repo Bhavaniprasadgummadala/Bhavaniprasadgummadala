@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Bhavani Prasad Gummadala! 👋
 
-<!--
-**Bhavaniprasadgummadala/Bhavaniprasadgummadala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- **Pre-final year Computer Science student** at Lovely Professional University.
+- Passionate about **leadership, effective communication, and team management**.
+- Represented **India** as a delegate at the 2021 International Model United Nations (IMUN) conference.
+- Strong foundation in **Python, C++, Java, DSA, Operating Systems, and Web Development**.
 
-Here are some ideas to get you started:
+## 🔧 Skills and Tools
+- **Languages**: Python, C++, HTML, CSS, JavaScript, Java, DBMS
+- **Tools**: Figma, Git, VS Code
+- **Specialization**: Machine Learning, NLP, Cloud Computing, UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+### Explore Ease
+- A travel website designed to cater to various traveler types (budget, solo, luxury, family).
+- Features: Dynamic price comparison, personal concierge services, kid-friendly activities, and more.
+- **Technologies**: Figma, HTML/CSS, UI/UX Design
+
+### Advanced Question Answering Systems
+- An NLP project integrating **transfer learning models** and **vector space techniques**.
+- Topics covered: Sentiment Analysis, Machine Translation, Document Search.
+
+## 🌱 Current Learning
+- C++ and Data Structures & Algorithms
+- Building real-life applicable projects combining **ML**, **Data Science**, **DBMS**, and **UI/UX**.
+
+## 📫 How to Reach Me
+- **Email**: your-email@example.com
+- **LinkedIn**: [Bhavani Prasad Gummadala](https://linkedin.com/in/your-profile)
+- **GitHub**: [BhavaniPrasad](https://github.com/BhavaniPrasad)
+
+## 🌟 Fun Facts
+- I love **Telugu old melodies** and enjoy movies like **Baahubali**, **Mahabharat**, and **Detective Byomkesh Bakshy!**
+- Interested in starting a **charity trust for elderly people**.
+- Enjoy mythological dramas and investigative thrillers.
