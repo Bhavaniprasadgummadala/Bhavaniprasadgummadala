@@ -9,7 +9,7 @@
 ## 🔧 Skills and Tools
 - **Languages**: Python, C++, HTML, CSS, JavaScript, Java, DBMS
 - **Tools**: Figma, Git, VS Code
-- **Specialization**: Machine Learning, NLP, Cloud Computing, UI/UX Design
+- **Specialization**: Machine Learning, NLP, Cloud Computing, Devops, UI/UX Design, 
 
 ## 🛠️ Projects
 ### Explore Ease
@@ -34,3 +34,12 @@
 - I love **Telugu old melodies** and enjoy movies like **Baahubali**, **Mahabharat**, and **Detective Byomkesh Bakshy!**
 - Interested in starting a **charity trust for elderly people**.
 - Enjoy mythological dramas and investigative thrillers.
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
