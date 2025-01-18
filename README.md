@@ -1,17 +1,17 @@
 # Hi, I'm Bhavani Prasad Gummadala! 👋
 
-## 👨‍💻 About Me
+## About Me
 - **Pre-final year Computer Science student** at Lovely Professional University.
 - Passionate about **leadership, effective communication, and team management**.
 - Represented **India** as a delegate at the 2021 International Model United Nations (IMUN) conference.
 - Strong foundation in **Python, C++, Java, DSA, Operating Systems, and Web Development**.
 
-## 🔧 Skills and Tools
+## Skills and Tools
 - **Languages**: Python, C++, HTML, CSS, JavaScript, Java, DBMS
 - **Tools**: Figma, Git, VS Code
 - **Specialization**: Machine Learning, NLP, Cloud Computing, Devops, UI/UX Design, 
 
-## 🛠️ Projects
+## Projects
 ### Explore Ease
 - **Description**: A travel website designed to cater to various traveler types (budget, solo, luxury, family).
 - **Features**: Dynamic price comparison, personal concierge services, kid-friendly activities, and more.
@@ -38,7 +38,7 @@
   - Evaluated model performance using metrics like accuracy and F1-score.
 - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.
 
-## 🌱 Current Learning
+## Current Learning
 - C++ and Data Structures & Algorithms
 - Building real-life applicable projects combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
 
