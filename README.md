@@ -43,9 +43,9 @@
 - Building real-life applicable projects combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
 
 ## How to Reach Me
-- **Email**: your-email@example.com
-- **LinkedIn**: [Bhavani Prasad Gummadala](https://linkedin.com/in/your-profile)
-- **GitHub**: [BhavaniPrasad](https://github.com/BhavaniPrasad)
+- **Email**:gummadalabhavaniprasad@example.com
+- **LinkedIn**: [Bhavani Prasad Gummadala](www.linkedin.com/in/bhavaniprasadgummadala)
+
 
 ## Fun Facts
 - I love **Telugu old melodies** and enjoy movies mostly mythological dramas and investigative thrillers.
