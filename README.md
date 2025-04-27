@@ -11,7 +11,7 @@
 - **Tools**: Figma, Git, VS Code
 - **Specialization**: Machine Learning, NLP, Cloud Computing, Devops, UI/UX Design, 
 
-## Currently working ion
+## Currently working on
 - Building real-life applicable project called Aharasetu food redistribution system combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
 
 ## How to Reach Me
