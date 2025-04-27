@@ -11,36 +11,8 @@
 - **Tools**: Figma, Git, VS Code
 - **Specialization**: Machine Learning, NLP, Cloud Computing, Devops, UI/UX Design, 
 
-## Projects
-### Explore Ease
-- **Description**: A travel website designed to cater to various traveler types (budget, solo, luxury, family).
-- **Features**: Dynamic price comparison, personal concierge services, kid-friendly activities, and more.
-- **Technologies**: Figma, HTML/CSS, UI/UX Design.
-
-### Advanced Question Answering Systems
-- **Description**: An NLP project integrating **transfer learning models** and **vector space techniques**.
-- **Topics Covered**: Sentiment Analysis, Machine Translation, Document Search.
-- **Technologies**: Python, TensorFlow, Scikit-learn.
-
-### Chatbot Using NLP
-- **Description**: This project builds a chatbot capable of understanding and responding to user inputs using Natural Language Processing.
-- **Features**:
-  - Data collection: Patterns and intents for various conversational topics.
-  - Text preprocessing: Removal of stop words, punctuation, and tokenization.
-  - Intent classification and response generation.
-- **Technologies**: Python, NLP, Scikit-learn, NLTK.
-
-### Machine Learning: Sentiment Analysis for Movie Reviews
-- **Description**: Analyzed sentiments of movie reviews to classify them as positive or negative using machine learning techniques.
-- **Features**:
-  - Preprocessed datasets by cleaning, stemming, and vectorizing text data.
-  - Applied classification algorithms such as Logistic Regression and Naive Bayes.
-  - Evaluated model performance using metrics like accuracy and F1-score.
-- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib.
-
-## Current Learning
-- C++ and Data Structures & Algorithms
-- Building real-life applicable projects combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
+## Currently working ion
+- Building real-life applicable project called Aharasetu food redistribution system combining **ML**, **Data Science**, **Devops**, **DBMS**, and **UI/UX**.
 
 ## How to Reach Me
 - **Email**:  gummadalabhavaniprasad@gmail.com
