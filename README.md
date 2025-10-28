@@ -1,7 +1,7 @@
 # Hi, I'm Bhavani Prasad Gummadala! 👋
 
 ## About Me
-- **Pre-final year Computer Science student** at Lovely Professional University.
+- **Final year Computer Science student** at Lovely Professional University.
 - Passionate about **leadership, effective communication, and team management**.
 - Represented **India** as a delegate at the 2021 International Model United Nations (IMUN) conference.
 - Strong foundation in **Python, C++, Java, DSA, Operating Systems, and Web Development**.
